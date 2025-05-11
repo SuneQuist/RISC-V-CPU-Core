@@ -15,3 +15,11 @@ from this repository.<br/>
 
 This was learnt over a day from the course [Building a RISC-V CPU Core](https://www.edx.org/learn/design/the-linux-foundation-building-a-risc-v-cpu-core?index=product&queryId=8751e218d79401e0f7e4c7155c877778&position=1)<br/>
 by Steve Hoover, founder at Redwood EDA.<br/>
+
+Here is the Logic Diagram of the CPU core.
+![Logic Diagam](https://github.com/SuneQuist/RISC-V-CPU-Core/blob/main/cpu_core_logic.png)
+
+Here is the Final Diagram in Makerchip.
+![Makerchip Diagram](https://github.com/SuneQuist/RISC-V-CPU-Core/blob/main/cpu_core_diagram.png)
+
+Have a wonderful day.
